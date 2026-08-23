@@ -855,6 +855,8 @@ function buildToc(){
       const gul = document.createElement("ul");
       gul.className = "leaf";
       g.sections.forEach((s, si) => {
+        // 分组首页节（与分组同名）不重复显示：由分组按钮承载加载
+        if(si === 0 && s.title === g.label) return;
         const sli = document.createElement("li");
         sli.className = "l3";
         sli.innerHTML = `<button data-act="sec" data-ci="${ci}" data-gi="${gi}" data-si="${si}"><span>${esc(s.title)}</span></button>`;
@@ -862,6 +864,11 @@ function buildToc(){
         sli.querySelector("button").addEventListener("click", () => loadSection(ci, gi, si));
         gul.appendChild(sli);
       });
+      // 分组下没有子小节时（如进阶篇的 11-x），隐藏展开箭头，仅作可点击项
+      if(gul.children.length === 0){
+        const caret = gli.querySelector(".caret");
+        if(caret) caret.style.visibility = "hidden";
+      }
       gli.appendChild(gul);
       // 分组按钮：展开/收起；若分组名本身就是个小节则加载它
       gli.querySelector("button").addEventListener("click", ev => {
@@ -904,10 +911,16 @@ function setTocActive(ci, gi, si){
   if(gi === null){
     const b = document.querySelector(`#tocTree button[data-act="ch"][data-ci="${ci}"]`);
     if(b){ b.classList.add("active"); expandTo(b); }
-  } else {
-    const b = document.querySelector(`#tocTree button[data-act="sec"][data-ci="${ci}"][data-gi="${gi}"][data-si="${si}"]`);
-    if(b){ b.classList.add("active"); expandTo(b); }
+    return;
   }
+  // 若当前节是隐藏的分组首页节（与分组同名），高亮分组按钮
+  const g = window.BOOK.chapters[ci].groups[gi];
+  const hidden = (si === 0 && g.sections[0] && g.sections[0].title === g.label);
+  const sel = hidden
+    ? `#tocTree button[data-act="grp"][data-ci="${ci}"][data-gi="${gi}"]`
+    : `#tocTree button[data-act="sec"][data-ci="${ci}"][data-gi="${gi}"][data-si="${si}"]`;
+  const b = document.querySelector(sel);
+  if(b){ b.classList.add("active"); expandTo(b); }
 }
 
 /* ================= 渲染：内容 ================= */
@@ -1064,7 +1077,8 @@ function loadSection(ci, gi, si){
     content.appendChild(buildTransposeCard());
   }
   setTocActive(ci, gi, si);
-  const crumb = ch.label + " › " + (ch.groups[gi].label ? ch.groups[gi].label + " › " : "") + sec.title;
+  const glabel = ch.groups[gi].label;
+  const crumb = ch.label + " › " + (glabel ? glabel + (sec.title !== glabel ? " › " + sec.title : "") : sec.title);
   document.getElementById("crumb").textContent = crumb;
   saveReading(ci, gi, si);
   window.scrollTo({top:0});
