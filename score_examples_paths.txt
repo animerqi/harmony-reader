@@ -1,0 +1,631 @@
+E:\Documents\DeepSeeK\harmony-trainer\images\1126726404_figure_large.jpg	谱例9.94	第九章 音乐的结构	3. 快速交替	
+E:\Documents\DeepSeeK\harmony-trainer\images\1126747155_figure_largeshow.jpg	谱例3.15	第三章 小调和声	属、下属和弦的借用	
+E:\Documents\DeepSeeK\harmony-trainer\images\1127251777_figure_largeshow.jpg	谱例3.5	第三章 小调和声	属、下属和弦的借用	
+E:\Documents\DeepSeeK\harmony-trainer\images\1128122954_figure_large.jpg	谱例7.39	第七章 和弦外音	平行和声的应用	
+E:\Documents\DeepSeeK\harmony-trainer\images\1128755314_figure_large.jpg	谱例6.4	第六章 排列与连接	下疏上密中不空	
+E:\Documents\DeepSeeK\harmony-trainer\images\1130487153_figure_large.jpg	谱例8.10	第八章 和弦变换	大三度循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\1133124224_figure_large.jpg	谱例7.3	第七章 和弦外音	经过音和辅助音	
+E:\Documents\DeepSeeK\harmony-trainer\images\1133851442_figure_large.jpg	谱例9.110	第九章 音乐的结构	奏鸣曲式	
+E:\Documents\DeepSeeK\harmony-trainer\images\1143580590_figure_largeshow.jpg	谱例3.2	第三章 小调和声	五线谱的和声分析	
+E:\Documents\DeepSeeK\harmony-trainer\images\1146199088_figure_largeshow.jpg	谱例9.71	第九章 音乐的结构	柱式和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1146199142_figure_largeshow.jpg	谱例9.75	第九章 音乐的结构	半分解和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1146199202_figure_largeshow.jpg	谱例9.80	第九章 音乐的结构	分解和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1146199756_figure_largeshow.jpg	谱例9.85	第九章 音乐的结构	分解和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1146199981_figure_largeshow.jpg	谱例9.86	第九章 音乐的结构	分解和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1146200367_figure_largeshow.jpg	谱例9.76	第九章 音乐的结构	半分解和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1146202021_figure_largeshow.jpg	谱例9.80	第九章 音乐的结构	分解和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1146486025_figure_largeshow.jpg	谱例9.51	第九章 音乐的结构	其它拍子种类	
+E:\Documents\DeepSeeK\harmony-trainer\images\1147502905_figure_large.jpg	谱例6.42	第六章 排列与连接	同和弦转换	
+E:\Documents\DeepSeeK\harmony-trainer\images\1147530563_figure_large.jpg	谱例6.1	第六章 排列与连接	爵士和声的声部连接	
+E:\Documents\DeepSeeK\harmony-trainer\images\1177973987_figure_large.jpg	谱例8.21	第八章 和弦变换	增三和弦的游移	
+E:\Documents\DeepSeeK\harmony-trainer\images\1187611636_figure_largeshow.jpg	谱例8.19	第八章 和弦变换	半音滑动	
+E:\Documents\DeepSeeK\harmony-trainer\images\1189244033_figure_largeshow.jpg	谱例6.2	第六章 排列与连接	谐音列与音程	
+E:\Documents\DeepSeeK\harmony-trainer\images\1189397998_figure_large.jpg	谱例2.3	第九章 音乐的结构	2. 旋律运动	
+E:\Documents\DeepSeeK\harmony-trainer\images\1189398149_figure_largeshow.jpg	谱例9.35	第九章 音乐的结构	2. 旋律运动	
+E:\Documents\DeepSeeK\harmony-trainer\images\1198214325_figure_largeshow.jpg	谱例7.56	第七章 和弦外音	四度与五度和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\1198214449_figure_largeshow.jpg	谱例7.57	第七章 和弦外音	四度与五度和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\1198452491_figure_large.jpg	谱例7.63	第七章 和弦外音	二度和声与音簇	
+E:\Documents\DeepSeeK\harmony-trainer\images\1199580259_figure_largeshow.jpg	谱例7.62	第七章 和弦外音	二度和声与音簇	
+E:\Documents\DeepSeeK\harmony-trainer\images\1203845708_figure_largeshow.jpg	谱例9.39	第九章 音乐的结构	从和声出发的创作	
+E:\Documents\DeepSeeK\harmony-trainer\images\1203845863_figure_largeshow.jpg	谱例9.40	第九章 音乐的结构	从和声出发的创作	
+E:\Documents\DeepSeeK\harmony-trainer\images\1203867567_figure_largeshow.jpg	谱例7.13	第七章 和弦外音	经过和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1208262999_figure_largeshow.jpg	谱例8.16	第八章 和弦变换	小三度循环与巴托克轴心	
+E:\Documents\DeepSeeK\harmony-trainer\images\1209685069_figure_largeshow.jpg	谱例9.109	第九章 音乐的结构	三部曲式	
+E:\Documents\DeepSeeK\harmony-trainer\images\1210332911_figure_largeshow.jpg	谱例5.35	第五章 变化与延伸	高叠和弦的更多理解	
+E:\Documents\DeepSeeK\harmony-trainer\images\1211856281_figure_largeshow.jpg	谱例6.37	第六章 排列与连接	转位与声部连接	
+E:\Documents\DeepSeeK\harmony-trainer\images\1213200653_figure_largeshow.jpg	谱例7.30	第七章 和弦外音	连续趋近	
+E:\Documents\DeepSeeK\harmony-trainer\images\1215695675_figure_largeshow.jpg	谱例6.20	第六章 排列与连接	倾向音的处理	
+E:\Documents\DeepSeeK\harmony-trainer\images\1215962922_figure_largeshow.jpg	谱例6.33	第六章 排列与连接	转位与声部连接	
+E:\Documents\DeepSeeK\harmony-trainer\images\1215965143_figure_largeshow.jpg	谱例6.34	第六章 排列与连接	转位与声部连接	
+E:\Documents\DeepSeeK\harmony-trainer\images\1215968575_figure_largeshow.jpg	谱例6.31	第六章 排列与连接	转位与声部连接	
+E:\Documents\DeepSeeK\harmony-trainer\images\1217589381_figure_largeshow.jpg	谱例10.2	第十章 基础篇总结	和弦重配	
+E:\Documents\DeepSeeK\harmony-trainer\images\1221523904_figure_largeshow.jpg	谱例9.105	第九章 音乐的结构	四个乐句的各种结构	
+E:\Documents\DeepSeeK\harmony-trainer\images\1235847150_figure_largeshow.jpg	谱例4.1	第六章 排列与连接	6-1 谐音列与音程	
+E:\Documents\DeepSeeK\harmony-trainer\images\1235847260_figure_largeshow.jpg	谱例7.31	第七章 和弦外音	线性和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\1235847314_figure_largeshow.jpg	谱例7.31	第九章 音乐的结构	爵士的律动	
+E:\Documents\DeepSeeK\harmony-trainer\images\1236271493_figure_largeshow.jpg	谱例8.47	第八章 和弦变换	终止式的发展	
+E:\Documents\DeepSeeK\harmony-trainer\images\1236271792_figure_largeshow.jpg	谱例8.51	第八章 和弦变换	终止式的发展	
+E:\Documents\DeepSeeK\harmony-trainer\images\1236272565_figure_largeshow.jpg	谱例8.50	第八章 和弦变换	终止式的发展	
+E:\Documents\DeepSeeK\harmony-trainer\images\1236272792_figure_largeshow.jpg	谱例8.55	第八章 和弦变换	终止式的发展	
+E:\Documents\DeepSeeK\harmony-trainer\images\1236308614_figure_large.jpg	谱例7.41	第七章 和弦外音	非功能和声	图7.13 G7的功能和声（左）与非功能和声（右）
+E:\Documents\DeepSeeK\harmony-trainer\images\1236436992_figure_largeshow.jpg	谱例4.1	第四章 副调和弦	大调的属调	
+E:\Documents\DeepSeeK\harmony-trainer\images\1236860728_figure_largeshow.jpg	谱例8.15	第八章 和弦变换	小三度循环与巴托克轴心	
+E:\Documents\DeepSeeK\harmony-trainer\images\1238137455_figure_largeshow.jpg	谱例9.104	第九章 音乐的结构	12小节布鲁斯	
+E:\Documents\DeepSeeK\harmony-trainer\images\1241117491_figure_largeshow.jpg	谱例8.8	第八章 和弦变换	中音关系	
+E:\Documents\DeepSeeK\harmony-trainer\images\1242755369_figure_largeshow.jpg	谱例8.37	第八章 和弦变换	对称变换	
+E:\Documents\DeepSeeK\harmony-trainer\images\1245436428_figure_large.jpg	谱例3.4	第三章 小调和声	小调和声的特点	
+E:\Documents\DeepSeeK\harmony-trainer\images\1252888020_figure_largeshow.jpg	谱例9.62	第九章 音乐的结构	爵士的律动	
+E:\Documents\DeepSeeK\harmony-trainer\images\1253501157_figure_largeshow.jpg	谱例6.16	第六章 排列与连接	旋律运动与声部分工	
+E:\Documents\DeepSeeK\harmony-trainer\images\1257715453_figure_largeshow.jpg	谱例4.7	第四章 副调和弦	小调曲例	
+E:\Documents\DeepSeeK\harmony-trainer\images\1257720508_figure_largeshow.jpg	谱例6.40	第六章 排列与连接	小调的弗里几亚进行	
+E:\Documents\DeepSeeK\harmony-trainer\images\1260888507_figure_largeshow.jpg	谱例7.53	第七章 和弦外音	附加音和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1260920884_figure_largeshow.jpg	谱例6.38	第六章 排列与连接	转位与声部连接	
+E:\Documents\DeepSeeK\harmony-trainer\images\1260920962_figure_largeshow.jpg	谱例6.39	第六章 排列与连接	转位与声部连接	
+E:\Documents\DeepSeeK\harmony-trainer\images\1260921142_figure_largeshow.jpg	谱例8.18	第八章 和弦变换	半音滑动	
+E:\Documents\DeepSeeK\harmony-trainer\images\1260921263_figure_largeshow.jpg	谱例8.22	第八章 和弦变换	同族七和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1265022073_figure_largeshow.jpg	谱例7.52	第七章 和弦外音	挂留和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1265409182_figure_largeshow.jpg	谱例8.24	第八章 和弦变换	属七和弦的游移	
+E:\Documents\DeepSeeK\harmony-trainer\images\1265647441_figure_largeshow.jpg	谱例5.11	第五章 变化与延伸	拿坡里和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1265648421_figure_largeshow.jpg	谱例5.23	第五章 变化与延伸	增六和弦的实例	
+E:\Documents\DeepSeeK\harmony-trainer\images\1265648506_figure_largeshow.jpg	谱例5.22	第五章 变化与延伸	增六和弦的实例	
+E:\Documents\DeepSeeK\harmony-trainer\images\1266148800_figure_largeshow.jpg	谱例9.42	第九章 音乐的结构	低音的旋律化	
+E:\Documents\DeepSeeK\harmony-trainer\images\1268753048_figure_largeshow.jpg	谱例9.92	第九章 音乐的结构	3. 快速交替	
+E:\Documents\DeepSeeK\harmony-trainer\images\1278908098_figure_largeshow.jpg	谱例9.54	第九章 音乐的结构	切分与弱起	
+E:\Documents\DeepSeeK\harmony-trainer\images\1278908117_figure_largeshow.jpg	谱例9.56	第九章 音乐的结构	切分与弱起	
+E:\Documents\DeepSeeK\harmony-trainer\images\1278908386_figure_largeshow.jpg	谱例9.59	第九章 音乐的结构	切分与弱起	
+E:\Documents\DeepSeeK\harmony-trainer\images\1294001223_figure_largeshow.jpg	谱例3.7	第三章 小调和声	同名主和弦的切换	
+E:\Documents\DeepSeeK\harmony-trainer\images\1322196032_figure_largeshow.jpg	谱例8.53	第八章 和弦变换	终止式的发展	
+E:\Documents\DeepSeeK\harmony-trainer\images\1330320720_figure_largeshow.jpg	谱例6.27	第六章 排列与连接	终止四六和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1330320906_figure_largeshow.jpg	谱例6.29	第六章 排列与连接	终止四六和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1333269950_figure_large.jpg	谱例6.8	第六章 排列与连接	距离产生美	
+E:\Documents\DeepSeeK\harmony-trainer\images\1333270135_figure_largeshow.jpg	谱例6.29	第九章 音乐的结构	副旋律的创作	
+E:\Documents\DeepSeeK\harmony-trainer\images\1335866890_figure_large.jpg	谱例6.43	第六章 排列与连接	爵士和声的声部连接	
+E:\Documents\DeepSeeK\harmony-trainer\images\1340276265_figure_large.jpg	谱例7.1	第七章 和弦外音	经过音和辅助音	
+E:\Documents\DeepSeeK\harmony-trainer\images\1340290065_figure_large.jpg	谱例7.2	第七章 和弦外音	经过音和辅助音	
+E:\Documents\DeepSeeK\harmony-trainer\images\1342288686_figure_large.jpg	谱例6.24	第六章 排列与连接	和声进行的综合规划	
+E:\Documents\DeepSeeK\harmony-trainer\images\1342288859_figure_large.jpg	谱例6.17	第六章 排列与连接	对位运动	
+E:\Documents\DeepSeeK\harmony-trainer\images\1343452773_figure_large.jpg	谱例6.23	第六章 排列与连接	音程的解决	
+E:\Documents\DeepSeeK\harmony-trainer\images\1345829797_figure_large.jpg	谱例7.59	第七章 和弦外音	四度与五度和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\1345829885_figure_large.jpg	谱例7.60	第七章 和弦外音	四度与五度和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\1346793981_figure_large.jpg	谱例8.48	第八章 和弦变换	终止式的发展	
+E:\Documents\DeepSeeK\harmony-trainer\images\1346794617_figure_large.jpg	谱例8.39	第八章 和弦变换	负和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\1346799878_figure_largeshow.jpg	谱例2.1	第十章 基础篇总结	和弦重配	图10.3 旋律音与所有十二个音上和弦的配合练习
+E:\Documents\DeepSeeK\harmony-trainer\images\1350277089_figure_large.jpg	谱例5.24	第五章 变化与延伸	增六和弦的实例	
+E:\Documents\DeepSeeK\harmony-trainer\images\1355451993_figure_large.jpg	谱例9.12	第九章 音乐的结构	主调与复调	
+E:\Documents\DeepSeeK\harmony-trainer\images\1355452026_figure_largeshow.jpg	谱例9.41	第九章 音乐的结构	从和声出发的创作	
+E:\Documents\DeepSeeK\harmony-trainer\images\1355452594_figure_large.jpg	谱例9.12	第九章 音乐的结构	分解和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1363610924_figure_large.jpg	谱例7.25	第七章 和弦外音	共同音趋近	
+E:\Documents\DeepSeeK\harmony-trainer\images\1363611166_figure_large.jpg	谱例7.26	第七章 和弦外音	共同音趋近	
+E:\Documents\DeepSeeK\harmony-trainer\images\1365628085_figure_large.jpg	谱例5.28	第五章 变化与延伸	高叠和弦的变化音	
+E:\Documents\DeepSeeK\harmony-trainer\images\1369646343_figure_large.jpg	谱例5.33	第五章 变化与延伸	爵士和声与古典和声的关系	
+E:\Documents\DeepSeeK\harmony-trainer\images\1369646551_figure_large.jpg	谱例5.30	第五章 变化与延伸	兼容原则	
+E:\Documents\DeepSeeK\harmony-trainer\images\1369646679_figure_large.jpg	谱例5.31	第五章 变化与延伸	兼容原则	
+E:\Documents\DeepSeeK\harmony-trainer\images\1369650960_figure_large.jpg	谱例5.28	第六章 排列与连接	爵士和声的声部连接	
+E:\Documents\DeepSeeK\harmony-trainer\images\1374819636_figure_large.jpg	谱例8.29	第八章 和弦变换	案例：增六与“Blackadder”和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1380697225_figure_large.jpg	谱例7.4	第七章 和弦外音	延留音与先现音	
+E:\Documents\DeepSeeK\harmony-trainer\images\1380792939_figure_large.jpg	谱例8.33	第八章 和弦变换	案例：增六与“Blackadder”和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1382256872_figure_largeshow.jpg	谱例4.4	第四章 副调和弦	大调曲例	
+E:\Documents\DeepSeeK\harmony-trainer\images\1387558148_figure_large.jpg	谱例7.43	第七章 和弦外音	反向和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\1387558237_figure_large.jpg	谱例7.29	第七章 和弦外音	趋近和弦小结	
+E:\Documents\DeepSeeK\harmony-trainer\images\1387558579_figure_large.jpg	谱例7.40	第七章 和弦外音	反向和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\1392204050_figure_large.jpg	谱例7.42	第七章 和弦外音	反向和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\1392249280_figure_large.jpg	谱例7.58	第七章 和弦外音	四度与五度和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\1392249353_figure_large.jpg	谱例7.64	第七章 和弦外音	二度和声与音簇	
+E:\Documents\DeepSeeK\harmony-trainer\images\1395203937_figure_large.jpg	谱例7.65	第七章 和弦外音	二度和声与音簇	
+E:\Documents\DeepSeeK\harmony-trainer\images\1397461166_figure_large.jpg	谱例8.49	第八章 和弦变换	终止式的发展	
+E:\Documents\DeepSeeK\harmony-trainer\images\1398339410_figure_largeshow.jpg	谱例7.54	第七章 和弦外音	附加音和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1398668308_figure_large.jpg	谱例10.1	第十章 基础篇总结	和弦重配	
+E:\Documents\DeepSeeK\harmony-trainer\images\1400442185_figure_largeshow.jpg	谱例8.3	第八章 和弦变换	多步变换与进行的强弱	
+E:\Documents\DeepSeeK\harmony-trainer\images\1416206454_figure_large.jpg	谱例8.17	第八章 和弦变换	小三度循环与巴托克轴心	
+E:\Documents\DeepSeeK\harmony-trainer\images\1418011836_figure_large.jpg	谱例6.6	第六章 排列与连接	距离产生美	
+E:\Documents\DeepSeeK\harmony-trainer\images\1424255100_figure_large.jpg	谱例9.47	第九章 音乐的结构	节拍的层次	
+E:\Documents\DeepSeeK\harmony-trainer\images\1424794389_figure_largeshow.jpg	谱例9.64	第九章 音乐的结构	节拍与节奏的创新	
+E:\Documents\DeepSeeK\harmony-trainer\images\1424794571_figure_large.jpg	谱例9.65	第九章 音乐的结构	节拍与节奏的创新	
+E:\Documents\DeepSeeK\harmony-trainer\images\1424794668_figure_largeshow.jpg	谱例9.66	第九章 音乐的结构	节拍与节奏的创新	
+E:\Documents\DeepSeeK\harmony-trainer\images\1424794747_figure_large.jpg	谱例9.52	第九章 音乐的结构	节奏与节奏型	
+E:\Documents\DeepSeeK\harmony-trainer\images\1424794862_figure_large.jpg	谱例9.53	第九章 音乐的结构	连音	
+E:\Documents\DeepSeeK\harmony-trainer\images\1424795100_figure_largeshow.jpg	谱例9.67	第九章 音乐的结构	节拍与节奏的创新	
+E:\Documents\DeepSeeK\harmony-trainer\images\1426504230_figure_largeshow.jpg	谱例9.21	第九章 音乐的结构	织体的类型	
+E:\Documents\DeepSeeK\harmony-trainer\images\1426504486_figure_large.jpg	谱例9.48	第九章 音乐的结构	节拍的层次	
+E:\Documents\DeepSeeK\harmony-trainer\images\1426504570_figure_large.jpg	谱例9.49	第九章 音乐的结构	节拍的层次	
+E:\Documents\DeepSeeK\harmony-trainer\images\1441110897_figure_large.jpg	谱例8.46	第八章 和弦变换	终止式的发展	
+E:\Documents\DeepSeeK\harmony-trainer\images\1441218829_figure_largeshow.jpg	谱例5.36	第五章 变化与延伸	高叠和弦的更多理解	
+E:\Documents\DeepSeeK\harmony-trainer\images\1442784567_figure_largeshow.jpg	谱例7.55	第七章 和弦外音	附加音和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1448105316_figure_largeshow.jpg	谱例8.23	第八章 和弦变换	减七和弦的游移	
+E:\Documents\DeepSeeK\harmony-trainer\images\1448105473_figure_large.jpg	谱例6.32	第六章 排列与连接	转位与声部连接	
+E:\Documents\DeepSeeK\harmony-trainer\images\1527447413_figure_large.jpg	谱例7.10	第七章 和弦外音	经过和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1527447507_figure_large.jpg	谱例6.44	第六章 排列与连接	爵士和声的声部连接	
+E:\Documents\DeepSeeK\harmony-trainer\images\1527647331_figure_large.jpg	谱例6.36	第六章 排列与连接	转位与声部连接	
+E:\Documents\DeepSeeK\harmony-trainer\images\1529527540_figure_large.jpg	谱例7.67	第七章 和弦外音	和弦的等音与外音	
+E:\Documents\DeepSeeK\harmony-trainer\images\1531237224_figure_large.jpg	谱例8.11	第八章 和弦变换	大三度循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\1531237340_figure_large.jpg	谱例8.13	第八章 和弦变换	大三度循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\1538400988_figure_largeshow.jpg	谱例6.21	第六章 排列与连接	倾向音的处理	
+E:\Documents\DeepSeeK\harmony-trainer\images\1538401397_figure_large.jpg	谱例8.44	第八章 和弦变换	终止式的发展	
+E:\Documents\DeepSeeK\harmony-trainer\images\1560861191_figure_large.jpg	谱例7.6	第七章 和弦外音	倚音	
+E:\Documents\DeepSeeK\harmony-trainer\images\1693703619_figure_large.jpg	谱例5.29	第五章 变化与延伸	和弦—音阶理论	
+E:\Documents\DeepSeeK\harmony-trainer\images\1693703701_figure_large.jpg	谱例5.29	第五章 变化与延伸	兼容原则	
+E:\Documents\DeepSeeK\harmony-trainer\images\1695909640_figure_large.jpg	谱例3.18	第三章 小调和声	交替大小调体系	
+E:\Documents\DeepSeeK\harmony-trainer\images\1695918192_figure_large.jpg	谱例3.19	第三章 小调和声	交替大小调体系	
+E:\Documents\DeepSeeK\harmony-trainer\images\1695920918_figure_large.jpg	谱例3.6	第三章 小调和声	属、下属和弦的借用	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696418893_figure_large.jpg	谱例3.8	第三章 小调和声	iii→ ♭III	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696418902_figure_large.jpg	谱例3.10	第三章 小调和声	vi→ ♭VI	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696419099_figure_large.jpg	谱例3.12	第三章 小调和声	vii°→ ♭VII	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696419237_figure_large.jpg	谱例3.7	第三章 小调和声	vi→ ♭VI	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696419605_figure_large.jpg	谱例3.13	第三章 小调和声	vii°→ ♭VII	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696419710_figure_large.jpg	谱例4.2	第四章 副调和弦	大调的下属调	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696422081_figure_large.jpg	谱例7.66	第七章 和弦外音	二度和声与音簇	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696485020_figure_large.jpg	谱例3.17	第三章 小调和声	交替大小调体系	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696485243_figure_large.jpg	谱例3.14	第三章 小调和声	vii°→ ♭VII	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696490837_figure_large.jpg	谱例5.12	第五章 变化与延伸	拿坡里和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696584529_figure_large.jpg	谱例3.11	第三章 小调和声	vi→ ♭VI	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696584679_figure_large.jpg	谱例5.1	第五章 变化与延伸	含♯2级的属和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696584750_figure_large.jpg	谱例5.2	第五章 变化与延伸	含♯2级的属和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696584995_figure_large.jpg	谱例5.3	第五章 变化与延伸	含♭2级的属和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696585076_figure_large.jpg	谱例5.4	第五章 变化与延伸	含♭2级的属和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696585142_figure_large.jpg	谱例5.5	第五章 变化与延伸	含♭2级的属和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696585257_figure_large.jpg	谱例5.6	第五章 变化与延伸	小调的属变和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696585396_figure_large.jpg	谱例3.7	第五章 变化与延伸	副属变和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696585552_figure_large.jpg	谱例5.9	第五章 变化与延伸	副属变和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696598004_figure_large.jpg	谱例5.17	第五章 变化与延伸	♭2级以外的变化音	
+E:\Documents\DeepSeeK\harmony-trainer\images\1696960970_figure_large.jpg	谱例5.15	第五章 变化与延伸	拿坡里和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697033412_figure_large.jpg	谱例5.13	第五章 变化与延伸	拿坡里和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697033509_figure_large.jpg	谱例5.25	第五章 变化与延伸	增六和弦的实例	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697034547_figure_large.jpg	谱例8.7	第八章 和弦变换	中音关系	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697058890_figure_large.jpg	谱例5.14	第五章 变化与延伸	拿坡里和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697059344_figure_large.jpg	谱例5.7	第五章 变化与延伸	小调的属变和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697059928_figure_large.jpg	谱例5.18	第五章 变化与延伸	增六和弦的实例	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697060177_figure_large.jpg	谱例5.19	第五章 变化与延伸	增六和弦的实例	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697060451_figure_large.jpg	谱例5.27	第五章 变化与延伸	其他音级上的增六和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697060543_figure_large.jpg	谱例6.7	第六章 排列与连接	距离产生美	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697060668_figure_large.jpg	谱例6.19	第六章 排列与连接	音程的解决	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697060989_figure_large.jpg	谱例7.28	第七章 和弦外音	趋近和弦小结	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697072389_figure_large.jpg	谱例4.5	第四章 副调和弦	大调曲例	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697072429_figure_largeshow.jpg	谱例4.3	第四章 副调和弦	大调的其他副调	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697075899_figure_large.jpg	谱例8.43	第八章 和弦变换	终止式的发展	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697075905_figure_large.jpg	谱例8.54	第八章 和弦变换	终止式的发展	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697076004_figure_large.jpg	谱例8.52	第八章 和弦变换	终止式的发展	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697076245_figure_large.jpg	谱例8.45	第八章 和弦变换	终止式的发展	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697076774_figure_large.jpg	谱例5.20	第五章 变化与延伸	增六和弦的实例	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697076854_figure_large.jpg	谱例5.21	第五章 变化与延伸	增六和弦的实例	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697077279_figure_large.jpg	谱例8.26	第八章 和弦变换	属七和弦的游移	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697077364_figure_large.jpg	谱例8.31	第八章 和弦变换	案例：增六与“Blackadder”和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697079720_figure_large.jpg	谱例6.25	第六章 排列与连接	和声进行的综合规划	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697079846_figure_large.jpg	谱例6.26	第六章 排列与连接	和弦的转位	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697079907_figure_large.jpg	谱例7.12	第七章 和弦外音	经过和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697080145_figure_large.jpg	谱例7.16	第七章 和弦外音	辅助和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697080203_figure_large.jpg	谱例7.23	第七章 和弦外音	二度趋近	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697080315_figure_large.jpg	谱例8.28	第八章 和弦变换	案例：增六与“Blackadder”和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697080446_figure_large.jpg	谱例8.30	第八章 和弦变换	案例：增六与“Blackadder”和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697081298_figure_largeshow.jpg	谱例8.14	第八章 和弦变换	小三度循环与巴托克轴心	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697081961_figure_large.jpg	谱例8.40	第八章 和弦变换	负和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697082055_figure_large.jpg	谱例8.41	第八章 和弦变换	负和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697082140_figure_large.jpg	谱例8.42	第八章 和弦变换	负和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697082545_figure_large.jpg	谱例8.27	第八章 和弦变换	属七和弦的游移	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697082661_figure_large.jpg	谱例8.32	第八章 和弦变换	案例：增六与“Blackadder”和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697172139_figure_large.jpg	谱例8.12	第八章 和弦变换	大三度循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\1697421217_figure_largeshow.jpg	谱例6.47	第六章 排列与连接	爵士和声的声部连接	
+E:\Documents\DeepSeeK\harmony-trainer\images\1709371445_figure_largeshow.jpg	谱例7.19	第七章 和弦外音	第四种和声变化	
+E:\Documents\DeepSeeK\harmony-trainer\images\841784208_figure_largeshow.jpg	谱例3.1	第三章 小调和声	和声分析的步骤	
+E:\Documents\DeepSeeK\harmony-trainer\images\938012151_figure_large.jpg	谱例2.1	第二章 大调和声	和弦编配	
+E:\Documents\DeepSeeK\harmony-trainer\images\938012698_figure_large.jpg	谱例2.2	第二章 大调和声	旋律音与第二定律	
+E:\Documents\DeepSeeK\harmony-trainer\images\938012775_figure_large.jpg	谱例2.3	第二章 大调和声	旋律音与第二定律	
+E:\Documents\DeepSeeK\harmony-trainer\images\938013329_figure_largeshow.jpg	谱例3.3	第三章 小调和声	吉他六线谱	
+E:\Documents\DeepSeeK\harmony-trainer\images\938014592_figure_large.jpg	谱例3.16	第三章 小调和声	主和弦与皮卡第终止	
+E:\Documents\DeepSeeK\harmony-trainer\images\938019314_figure_large.jpg	谱例4.6	第四章 副调和弦	小调曲例	
+E:\Documents\DeepSeeK\harmony-trainer\images\938027991_figure_large.jpg	谱例5.10	第五章 变化与延伸	拿坡里和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\938028068_figure_large.jpg	谱例5.16	第五章 变化与延伸	拿坡里和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\938028704_figure_large.jpg	谱例5.26	第五章 变化与延伸	特里斯坦和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\938028928_figure_large.jpg	谱例5.34	第五章 变化与延伸	高叠和弦的更多理解	
+E:\Documents\DeepSeeK\harmony-trainer\images\938039073_figure_largeshow.jpg	谱例6.3	第六章 排列与连接	下疏上密中不空	
+E:\Documents\DeepSeeK\harmony-trainer\images\938039191_figure_largeshow.jpg	谱例6.5	第六章 排列与连接	下疏上密中不空	
+E:\Documents\DeepSeeK\harmony-trainer\images\938039390_figure_largeshow.jpg	谱例6.9	第六章 排列与连接	音域和演奏	
+E:\Documents\DeepSeeK\harmony-trainer\images\938039498_figure_largeshow.jpg	谱例6.10	第六章 排列与连接	音域和演奏	
+E:\Documents\DeepSeeK\harmony-trainer\images\938039583_figure_largeshow.jpg	谱例6.11	第六章 排列与连接	音域和演奏	
+E:\Documents\DeepSeeK\harmony-trainer\images\938039730_figure_largeshow.jpg	谱例6.12	第六章 排列与连接	重复与省略	
+E:\Documents\DeepSeeK\harmony-trainer\images\938039860_figure_largeshow.jpg	谱例6.13	第六章 排列与连接	重复与省略	
+E:\Documents\DeepSeeK\harmony-trainer\images\938040778_figure_large.jpg	谱例6.14	第六章 排列与连接	声部运动的基本概念	
+E:\Documents\DeepSeeK\harmony-trainer\images\938040841_figure_large.jpg	谱例6.15	第六章 排列与连接	声部运动的基本概念	
+E:\Documents\DeepSeeK\harmony-trainer\images\938041469_figure_largeshow.jpg	谱例6.19	第六章 排列与连接	倾向音的处理	
+E:\Documents\DeepSeeK\harmony-trainer\images\938042684_figure_largeshow.jpg	谱例6.28	第六章 排列与连接	终止四六和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\938042957_figure_large.jpg	谱例6.30	第六章 排列与连接	终止四六和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\938043353_figure_large.jpg	谱例6.35	第六章 排列与连接	转位与声部连接	
+E:\Documents\DeepSeeK\harmony-trainer\images\938043797_figure_large.jpg	谱例6.41	第六章 排列与连接	同和弦转换	
+E:\Documents\DeepSeeK\harmony-trainer\images\938044549_figure_large.jpg	谱例7.5	第七章 和弦外音	倚音	
+E:\Documents\DeepSeeK\harmony-trainer\images\938044664_figure_large.jpg	谱例5.26	第七章 和弦外音	倚音	
+E:\Documents\DeepSeeK\harmony-trainer\images\938044781_figure_large.jpg	谱例7.7	第七章 和弦外音	持续音	
+E:\Documents\DeepSeeK\harmony-trainer\images\938044810_figure_large.jpg	谱例7.8	第七章 和弦外音	持续音	
+E:\Documents\DeepSeeK\harmony-trainer\images\938044925_figure_large.jpg	谱例7.9	第七章 和弦外音	持续音	
+E:\Documents\DeepSeeK\harmony-trainer\images\938045156_figure_large.jpg	谱例7.11	第七章 和弦外音	经过和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\938045482_figure_large.jpg	谱例7.14	第七章 和弦外音	辅助和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\938045551_figure_large.jpg	谱例7.15	第七章 和弦外音	辅助和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\938045799_figure_large.jpg	谱例7.17	第七章 和弦外音	辅助和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\938045983_figure_large.jpg	谱例7.18	第七章 和弦外音	倚音和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\938046339_figure_large.jpg	谱例7.20	第七章 和弦外音	五度趋近	
+E:\Documents\DeepSeeK\harmony-trainer\images\938046494_figure_large.jpg	谱例7.21	第七章 和弦外音	五度趋近	
+E:\Documents\DeepSeeK\harmony-trainer\images\938046637_figure_large.jpg	谱例7.22	第七章 和弦外音	五度趋近	
+E:\Documents\DeepSeeK\harmony-trainer\images\938111542_figure_large.jpg	谱例7.24	第七章 和弦外音	二度趋近	
+E:\Documents\DeepSeeK\harmony-trainer\images\938250309_figure_large.jpg	谱例7.27	第七章 和弦外音	共同音趋近	
+E:\Documents\DeepSeeK\harmony-trainer\images\938958567_figure_large.jpg	谱例7.32	第七章 和弦外音	7-4 平行与反向和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\938958618_figure_large.jpg	谱例7.33	第七章 和弦外音	德彪西的平行和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\938958916_figure_large.jpg	谱例7.34	第七章 和弦外音	平行和声的应用	
+E:\Documents\DeepSeeK\harmony-trainer\images\938959034_figure_large.jpg	谱例7.35	第七章 和弦外音	平行和声的应用	
+E:\Documents\DeepSeeK\harmony-trainer\images\938959156_figure_large.jpg	谱例7.36	第七章 和弦外音	平行和声的应用	
+E:\Documents\DeepSeeK\harmony-trainer\images\938959284_figure_large.jpg	谱例7.37	第七章 和弦外音	平行和声的应用	
+E:\Documents\DeepSeeK\harmony-trainer\images\938959319_figure_large.jpg	谱例7.38	第七章 和弦外音	平行和声的应用	
+E:\Documents\DeepSeeK\harmony-trainer\images\938959562_figure_large.jpg	谱例7.41	第七章 和弦外音	反向和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\938959693_figure_large.jpg	谱例7.44	第七章 和弦外音	平行、反向与循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\938959991_figure_large.jpg	谱例7.45	第七章 和弦外音	平行、反向与循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\938960083_figure_large.jpg	谱例7.41	第七章 和弦外音	平行、反向与循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\938960495_figure_largeshow.jpg	谱例7.47	第七章 和弦外音	延留与先现和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\938960578_figure_large.jpg	谱例7.48	第七章 和弦外音	延留与先现和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\938960612_figure_large.jpg	谱例7.49	第七章 和弦外音	挂留和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\938961034_figure_large.jpg	谱例3.16	第七章 和弦外音	挂留和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\938963057_figure_large.jpg	谱例7.61	第七章 和弦外音	二度和声与音簇	
+E:\Documents\DeepSeeK\harmony-trainer\images\939221249_figure_large.jpg	谱例8.1	第八章 和弦变换	三元变换	
+E:\Documents\DeepSeeK\harmony-trainer\images\939221858_figure_large.jpg	谱例8.2	第八章 和弦变换	多步变换与进行的强弱	
+E:\Documents\DeepSeeK\harmony-trainer\images\939222178_figure_large.jpg	谱例8.4	第八章 和弦变换	对角关系	
+E:\Documents\DeepSeeK\harmony-trainer\images\939223272_figure_large.jpg	谱例8.5	第八章 和弦变换	中音关系	
+E:\Documents\DeepSeeK\harmony-trainer\images\939224441_figure_large.jpg	谱例8.6	第八章 和弦变换	中音关系	
+E:\Documents\DeepSeeK\harmony-trainer\images\939225870_figure_large.jpg	谱例8.9	第八章 和弦变换	大三度循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\939232975_figure_large.jpg	谱例8.20	第八章 和弦变换	半音滑动	
+E:\Documents\DeepSeeK\harmony-trainer\images\939242476_figure_large.jpg	谱例8.25	第八章 和弦变换	属七和弦的游移	
+E:\Documents\DeepSeeK\harmony-trainer\images\939242527_figure_large.jpg	谱例7.33	第八章 和弦变换	平移变换	
+E:\Documents\DeepSeeK\harmony-trainer\images\939242823_figure_large.jpg	谱例8.34	第八章 和弦变换	平移变换	
+E:\Documents\DeepSeeK\harmony-trainer\images\939243092_figure_large.jpg	谱例8.35	第八章 和弦变换	倒影与沉音列	
+E:\Documents\DeepSeeK\harmony-trainer\images\939243493_figure_large.jpg	谱例8.36	第八章 和弦变换	对称变换	
+E:\Documents\DeepSeeK\harmony-trainer\images\939243783_figure_large.jpg	谱例8.38	第八章 和弦变换	负和声	
+E:\Documents\DeepSeeK\harmony-trainer\images\939244557_figure_largeshow.jpg	谱例9.1	第九章 音乐的结构	动机和主题	
+E:\Documents\DeepSeeK\harmony-trainer\images\939244622_figure_large.jpg	谱例9.2	第九章 音乐的结构	动机和主题	
+E:\Documents\DeepSeeK\harmony-trainer\images\939244719_figure_large.jpg	谱例9.3	第九章 音乐的结构	反复与变奏	
+E:\Documents\DeepSeeK\harmony-trainer\images\939244800_figure_large.jpg	谱例2.1	第九章 音乐的结构	反复与变奏	
+E:\Documents\DeepSeeK\harmony-trainer\images\939244908_figure_large.jpg	谱例9.4	第九章 音乐的结构	反复与变奏	
+E:\Documents\DeepSeeK\harmony-trainer\images\939245836_figure_large.jpg	谱例9.5	第九章 音乐的结构	模进	
+E:\Documents\DeepSeeK\harmony-trainer\images\939245991_figure_large.jpg	谱例9.6	第九章 音乐的结构	模进	
+E:\Documents\DeepSeeK\harmony-trainer\images\939246016_figure_large.jpg	谱例9.7	第九章 音乐的结构	模进	
+E:\Documents\DeepSeeK\harmony-trainer\images\939246169_figure_large.jpg	谱例9.8	第九章 音乐的结构	模进	
+E:\Documents\DeepSeeK\harmony-trainer\images\939246237_figure_large.jpg	谱例9.9	第九章 音乐的结构	和声模进	
+E:\Documents\DeepSeeK\harmony-trainer\images\939246321_figure_large.jpg	谱例9.10	第九章 音乐的结构	和声模进	
+E:\Documents\DeepSeeK\harmony-trainer\images\939246498_figure_large.jpg	谱例9.11	第九章 音乐的结构	和声模进	
+E:\Documents\DeepSeeK\harmony-trainer\images\939249866_figure_large.jpg	谱例9.13	第九章 音乐的结构	主调与复调	
+E:\Documents\DeepSeeK\harmony-trainer\images\939250048_figure_largeshow.jpg	谱例9.14	第九章 音乐的结构	卡农	
+E:\Documents\DeepSeeK\harmony-trainer\images\939250434_figure_largeshow.jpg	谱例9.15	第九章 音乐的结构	卡农	
+E:\Documents\DeepSeeK\harmony-trainer\images\939250514_figure_large.jpg	谱例9.16	第九章 音乐的结构	卡农	
+E:\Documents\DeepSeeK\harmony-trainer\images\939250749_figure_large.jpg	谱例9.17	第九章 音乐的结构	赋格	
+E:\Documents\DeepSeeK\harmony-trainer\images\939251543_figure_large.jpg	谱例9.18	第九章 音乐的结构	赋格	
+E:\Documents\DeepSeeK\harmony-trainer\images\939677782_figure_large.jpg	谱例9.19	第九章 音乐的结构	织体	
+E:\Documents\DeepSeeK\harmony-trainer\images\939678577_figure_large.jpg	谱例9.20	第九章 音乐的结构	织体的类型	
+E:\Documents\DeepSeeK\harmony-trainer\images\939678734_figure_large.jpg	谱例9.22	第九章 音乐的结构	织体的类型	
+E:\Documents\DeepSeeK\harmony-trainer\images\939678861_figure_large.jpg	谱例9.23	第九章 音乐的结构	织体的类型	
+E:\Documents\DeepSeeK\harmony-trainer\images\939678991_figure_large.jpg	谱例9.24	第九章 音乐的结构	织体的类型	
+E:\Documents\DeepSeeK\harmony-trainer\images\939679112_figure_large.jpg	谱例9.25	第九章 音乐的结构	如何看总谱	
+E:\Documents\DeepSeeK\harmony-trainer\images\939679264_figure_large.jpg	谱例9.26	第九章 音乐的结构	如何看总谱	
+E:\Documents\DeepSeeK\harmony-trainer\images\939679348_figure_large.jpg	谱例9.27	第九章 音乐的结构	如何看总谱	
+E:\Documents\DeepSeeK\harmony-trainer\images\939679459_figure_largeshow.jpg	谱例9.28	第九章 音乐的结构	如何看总谱	
+E:\Documents\DeepSeeK\harmony-trainer\images\939679587_figure_large.jpg	谱例9.29	第九章 音乐的结构	乐谱的缩编	
+E:\Documents\DeepSeeK\harmony-trainer\images\939684541_figure_large.jpg	谱例9.30	第九章 音乐的结构	2. 旋律运动	
+E:\Documents\DeepSeeK\harmony-trainer\images\939684612_figure_large.jpg	谱例9.31	第九章 音乐的结构	2. 旋律运动	
+E:\Documents\DeepSeeK\harmony-trainer\images\939709185_figure_largeshow.jpg	谱例9.32	第九章 音乐的结构	2. 旋律运动	
+E:\Documents\DeepSeeK\harmony-trainer\images\939712403_figure_large.jpg	谱例9.34	第九章 音乐的结构	2. 旋律运动	
+E:\Documents\DeepSeeK\harmony-trainer\images\939712586_figure_large.jpg	谱例9.33	第九章 音乐的结构	2. 旋律运动	
+E:\Documents\DeepSeeK\harmony-trainer\images\939712825_figure_large.jpg	谱例9.36	第九章 音乐的结构	从旋律出发的创作	
+E:\Documents\DeepSeeK\harmony-trainer\images\939713084_figure_large.jpg	谱例9.37	第九章 音乐的结构	从旋律出发的创作	
+E:\Documents\DeepSeeK\harmony-trainer\images\939713109_figure_large.jpg	谱例9.38	第九章 音乐的结构	从和声出发的创作	
+E:\Documents\DeepSeeK\harmony-trainer\images\940203116_figure_largeshow.jpg	谱例9.43	第九章 音乐的结构	副旋律的创作	
+E:\Documents\DeepSeeK\harmony-trainer\images\940203451_figure_large.jpg	谱例9.44	第九章 音乐的结构	副旋律的创作	
+E:\Documents\DeepSeeK\harmony-trainer\images\940203660_figure_large.jpg	谱例9.38	第九章 音乐的结构	副旋律的创作	
+E:\Documents\DeepSeeK\harmony-trainer\images\940204124_figure_large.jpg	谱例9.45	第九章 音乐的结构	副旋律的创作	
+E:\Documents\DeepSeeK\harmony-trainer\images\940204295_figure_large.jpg	谱例9.46	第九章 音乐的结构	节奏与节拍	
+E:\Documents\DeepSeeK\harmony-trainer\images\940205888_figure_large.jpg	谱例9.50	第九章 音乐的结构	其它拍子种类	
+E:\Documents\DeepSeeK\harmony-trainer\images\940215885_figure_large.jpg	谱例9.55	第九章 音乐的结构	切分与弱起	
+E:\Documents\DeepSeeK\harmony-trainer\images\940216104_figure_large.jpg	谱例9.57	第九章 音乐的结构	切分与弱起	
+E:\Documents\DeepSeeK\harmony-trainer\images\940216217_figure_large.jpg	谱例9.58	第九章 音乐的结构	切分与弱起	
+E:\Documents\DeepSeeK\harmony-trainer\images\941795420_figure_large.jpg	谱例9.60	第九章 音乐的结构	爵士的律动	
+E:\Documents\DeepSeeK\harmony-trainer\images\941795751_figure_large.jpg	谱例9.63	第九章 音乐的结构	爵士的律动	
+E:\Documents\DeepSeeK\harmony-trainer\images\941796924_figure_large.jpg	谱例9.68	第九章 音乐的结构	节拍与节奏的创新	
+E:\Documents\DeepSeeK\harmony-trainer\images\941797079_figure_large.jpg	谱例9.69	第九章 音乐的结构	9-6 和弦的伴奏音型	
+E:\Documents\DeepSeeK\harmony-trainer\images\941797169_figure_large.jpg	谱例9.70	第九章 音乐的结构	柱式和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\941797367_figure_large.jpg	谱例9.72	第九章 音乐的结构	柱式和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\941797486_figure_large.jpg	谱例9.73	第九章 音乐的结构	柱式和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\941797594_figure_large.jpg	谱例9.74	第九章 音乐的结构	柱式和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\941797872_figure_large.jpg	谱例9.77	第九章 音乐的结构	半分解和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\941797922_figure_large.jpg	谱例9.78	第九章 音乐的结构	半分解和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\941798017_figure_largeshow.jpg	谱例9.79	第九章 音乐的结构	分解和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\941798503_figure_large.jpg	谱例9.81	第九章 音乐的结构	分解和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\941798678_figure_large.jpg	谱例9.83	第九章 音乐的结构	分解和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\941798760_figure_large.jpg	谱例9.84	第九章 音乐的结构	分解和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\941800433_figure_large.jpg	谱例9.87	第九章 音乐的结构	1. 快速跑动	
+E:\Documents\DeepSeeK\harmony-trainer\images\941800562_figure_large.jpg	谱例9.88	第九章 音乐的结构	1. 快速跑动	
+E:\Documents\DeepSeeK\harmony-trainer\images\941800662_figure_large.jpg	谱例9.89	第九章 音乐的结构	2. 琶音与刮奏	
+E:\Documents\DeepSeeK\harmony-trainer\images\941800722_figure_large.jpg	谱例9.90	第九章 音乐的结构	2. 琶音与刮奏	
+E:\Documents\DeepSeeK\harmony-trainer\images\941801020_figure_large.jpg	谱例9.91	第九章 音乐的结构	2. 琶音与刮奏	
+E:\Documents\DeepSeeK\harmony-trainer\images\941801224_figure_largeshow.jpg	谱例9.93	第九章 音乐的结构	3. 快速交替	
+E:\Documents\DeepSeeK\harmony-trainer\images\941801637_figure_large.jpg	谱例9.95	第九章 音乐的结构	3. 快速交替	
+E:\Documents\DeepSeeK\harmony-trainer\images\941801781_figure_large.jpg	谱例9.96	第九章 音乐的结构	4. 双音、八度及和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\941801845_figure_large.jpg	谱例9.97	第九章 音乐的结构	4. 双音、八度及和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\941801916_figure_large.jpg	谱例9.98	第九章 音乐的结构	4. 双音、八度及和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\941802097_figure_large.jpg	谱例9.99	第九章 音乐的结构	4. 双音、八度及和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\941802145_figure_large.jpg	谱例9.100	第九章 音乐的结构	乐句与乐段	
+E:\Documents\DeepSeeK\harmony-trainer\images\941802280_figure_large.jpg	谱例9.101	第九章 音乐的结构	乐句与乐段	
+E:\Documents\DeepSeeK\harmony-trainer\images\941802327_figure_large.jpg	谱例9.102	第九章 音乐的结构	乐句与乐段	
+E:\Documents\DeepSeeK\harmony-trainer\images\941802408_figure_largeshow.jpg	谱例9.103	第九章 音乐的结构	乐句与乐段	
+E:\Documents\DeepSeeK\harmony-trainer\images\941802651_figure_large.jpg	谱例9.106	第九章 音乐的结构	四个乐句的各种结构	
+E:\Documents\DeepSeeK\harmony-trainer\images\941802788_figure_large.jpg	谱例9.107	第九章 音乐的结构	四个乐句的各种结构	
+E:\Documents\DeepSeeK\harmony-trainer\images\941802860_figure_large.jpg	谱例9.108	第九章 音乐的结构	32小节体	
+E:\Documents\DeepSeeK\harmony-trainer\images\948378021_figure_large.jpg	谱例6.18	第六章 排列与连接	倾向音的处理	
+E:\Documents\DeepSeeK\harmony-trainer\images\948414277_figure_large.jpg	谱例7.51	第七章 和弦外音	挂留和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1000725291_figure_largeshow.jpg	谱例11.64	第十一章 转调	11-8 其他转调法	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1007237961_figure_largeshow.jpg	谱例11.68	第十一章 转调	11-8 其他转调法	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1007249701_figure_largeshow.jpg	谱例11.67	第十一章 转调	11-8 其他转调法	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1007677274_figure_largeshow.jpg	谱例11.55	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1008099030_figure_largeshow.jpg	谱例11.69	第十一章 转调	11-8 其他转调法	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1008573343_figure_largeshow.jpg	谱例11.70	第十一章 转调	11-8 其他转调法	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1014003038_figure_largeshow.jpg	谱例11.72	第十一章 转调	11-9 调性布局(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1015924234_figure_largeshow.jpg	谱例11.75	第十一章 转调	11-10 调性布局(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1020874324_figure_largeshow.jpg	谱例11.77	第十一章 转调	11-10 调性布局(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1027397835_figure_largeshow.jpg	谱例12.4	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1027397908_figure_largeshow.jpg	谱例12.6	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1027404663_figure_largeshow.jpg	谱例12.3	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1027821977_figure_largeshow.jpg	谱例12.8	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1027913063_figure_largeshow.jpg	谱例12.9	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1028413483_figure_largeshow.jpg	谱例12.18	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1039977832_figure_largeshow.jpg	谱例12.14	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1039978155_figure_largeshow.jpg	谱例12.16	第十二章 调式	12-2 中古调式(下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077017876_figure_largeshow.jpg	谱例12.17	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077288108_figure_largeshow.jpg	谱例12.20	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077288232_figure_largeshow.jpg	谱例12.21	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077288827_figure_largeshow.jpg	谱例12.23	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077306313_figure_largeshow.jpg	谱例12.24	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077330310_figure_largeshow.jpg	谱例12.26	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077457684_figure_largeshow.jpg	谱例12.28	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077460887_figure_largeshow.jpg	谱例12.19	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077461521_figure_largeshow.jpg	谱例12.25	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077466847_figure_largeshow.jpg	谱例12.29	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077466926_figure_largeshow.jpg	谱例12.33	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077467037_figure_largeshow.jpg	谱例12.36	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077676507_figure_largeshow.jpg	谱例12.30	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077679733_figure_largeshow.jpg	谱例12.31	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077793853_figure_largeshow.jpg	谱例12.35	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077900921_figure_largeshow.jpg	谱例12.32	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077937177_figure_largeshow.jpg	谱例12.22	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077937204_figure_largeshow.jpg	谱例12.27	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077937471_figure_largeshow.jpg	谱例12.34	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077937786_figure_largeshow.jpg	谱例12.37	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1077937858_figure_largeshow.jpg	谱例12.38	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1078246811_figure_largeshow.jpg	谱例12.40	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1087738441_figure_largeshow.jpg	谱例12.20	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1097514892_figure_largeshow.jpg	谱例11.59	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1102463481_figure_largeshow.jpg	谱例11.41	第十一章 转调	11-6 等音转调(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1111839101_figure_largeshow.jpg	谱例11.28	第十一章 转调	11-5 转调中的模进、趋近与循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1112787380_figure_largeshow.jpg	谱例11.2	第十一章 转调	11-2 共同和弦转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1112810250_figure_largeshow.jpg	谱例11.52	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1114047902_figure_largeshow.jpg	谱例11.14	第十一章 转调	11-4 同名转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1117058110_figure_largeshow.jpg	谱例11.3	第十一章 转调	11-2 共同和弦转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1122853481_figure_largeshow.jpg	谱例12.44	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1124941260_figure_largeshow.jpg	谱例12.48	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1125014543_figure_largeshow.jpg	谱例11.19	第十一章 转调	11-4 同名转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1125415897_figure_largeshow.jpg	谱例12.51	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1125416182_figure_largeshow.jpg	谱例12.52	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1125416262_figure_largeshow.jpg	谱例12.55	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1125416391_figure_largeshow.jpg	谱例12.54	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1125455204_figure_largeshow.jpg	谱例12.57	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1125455468_figure_largeshow.jpg	谱例12.58	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1125455619_figure_largeshow.jpg	谱例12.59	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1125456387_figure_largeshow.jpg	谱例12.61	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1125456826_figure_largeshow.jpg	谱例12.63	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1125471090_figure_largeshow.jpg	谱例12.43	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1125471666_figure_largeshow.jpg	谱例12.1	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1125577663_figure_largeshow.jpg	谱例12.45	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1126888149_figure_largeshow.jpg	谱例12.47	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1126888287_figure_largeshow.jpg	谱例12.50	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1126888469_figure_largeshow.jpg	谱例12.56	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1127252184_figure_largeshow.jpg	谱例12.46	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1127252236_figure_largeshow.jpg	谱例12.64	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1127309225_figure_largeshow.jpg	谱例11.57	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1127362889_figure_largeshow.jpg	谱例12.53	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1127802698_figure_largeshow.jpg	谱例12.65	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1127804832_figure_largeshow.jpg	谱例12.67	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1127808557_figure_largeshow.jpg	谱例12.60	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1127809132_figure_largeshow.jpg	谱例12.69	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1128123239_figure_largeshow.jpg	谱例12.70	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1128127400_figure_largeshow.jpg	谱例12.66	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1130515714_figure_largeshow.jpg	谱例11.44	第十一章 转调	11-6 等音转调(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1131847862_figure_largeshow.jpg	谱例12.49	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1132725181_figure_largeshow.jpg	谱例12.15	第十二章 调式	12-2 中古调式(下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1133576210_figure_largeshow.jpg	谱例12.75	第十二章 调式	12-6 民族调性体系	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1133656436_figure_largeshow.jpg	谱例12.76	第十二章 调式	12-6 民族调性体系	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1133843345_figure_largeshow.jpg	谱例11.9	第十一章 转调	11-3 加速转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1133843400_figure_largeshow.jpg	谱例12.71	第十二章 调式	12-6 民族调性体系	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1134427852_figure_largeshow.jpg	谱例12.72	第十二章 调式	12-6 民族调性体系	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1137664248_figure_largeshow.jpg	谱例11.76	第十一章 转调	11-10 调性布局(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1140264777_figure_largeshow.jpg	谱例12.73	第十二章 调式	12-6 民族调性体系	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1143554594_figure_largeshow.jpg	谱例12.84	第十二章 调式	12-7 日本音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1143554611_figure_largeshow.jpg	谱例12.83	第十二章 调式	12-7 日本音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1143555103_figure_largeshow.jpg	谱例12.77	第十二章 调式	12-6 民族调性体系	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1143555344_figure_largeshow.jpg	谱例12.79	第十二章 调式	12-6 民族调性体系	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1143559070_figure_largeshow.jpg	谱例12.80	第十二章 调式	12-6 民族调性体系	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1143581854_figure_largeshow.jpg	谱例12.85	第十二章 调式	12-7 日本音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1143583245_figure_largeshow.jpg	谱例12.89	第十二章 调式	12-7 日本音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1144978306_figure_largeshow.jpg	谱例12.82	第十二章 调式	12-7 日本音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1144978672_figure_largeshow.jpg	谱例12.87	第十二章 调式	12-7 日本音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1144998546_figure_largeshow.jpg	谱例12.90	第十二章 调式	12-7 日本音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1145468434_figure_largeshow.jpg	谱例12.74	第十二章 调式	12-6 民族调性体系	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1145550882_figure_largeshow.jpg	谱例12.92	第十二章 调式	12-7 日本音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1145551010_figure_largeshow.jpg	谱例12.93	第十二章 调式	12-7 日本音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1148577308_figure_largeshow.jpg	谱例12.88	第十二章 调式	12-7 日本音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1148577695_figure_largeshow.jpg	谱例12.97	第十二章 调式	12-8 自然音阶与调性	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1148578439_figure_largeshow.jpg	谱例12.95	第十二章 调式	12-8 自然音阶与调性	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1148940740_figure_largeshow.jpg	谱例12.98	第十二章 调式	12-8 自然音阶与调性	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1148941102_figure_largeshow.jpg	谱例12.94	第十二章 调式	12-7 日本音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1151477159_figure_largeshow.jpg	谱例12.18	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1153300301_figure_largeshow.jpg	谱例11.40	第十一章 转调	11-6 等音转调(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1157975275_figure_largeshow.jpg	谱例12.39	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1160354420_figure_largeshow.jpg	谱例12.78	第十二章 调式	12-6 民族调性体系	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1166289928_figure_largeshow.jpg	谱例11.21	第十一章 转调	11-4 同名转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1166290027_figure_largeshow.jpg	谱例11.22	第十一章 转调	11-5 转调中的模进、趋近与循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1177975063_figure_largeshow.jpg	谱例13.4	第十三章 现代和声	13-3 有限移位调式	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1179006451_figure_largeshow.jpg	谱例13.1	第十三章 现代和声	13-3 有限移位调式	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1179884811_figure_largeshow.jpg	谱例13.3	第十三章 现代和声	13-3 有限移位调式	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1184089710_figure_largeshow.jpg	谱例11.24	第十一章 转调	11-5 转调中的模进、趋近与循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1184834738_figure_largeshow.jpg	谱例11.48	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1206596008_figure_largeshow.jpg	谱例12.86	第十二章 调式	12-7 日本音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1213215629_figure_largeshow.jpg	谱例12.68	第十二章 调式	12-5 民族调式的和弦	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1217592028_figure_largeshow.jpg	谱例11.30	第十一章 转调	11-5 转调中的模进、趋近与循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1217592398_figure_largeshow.jpg	谱例11.31	第十一章 转调	11-5 转调中的模进、趋近与循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1219170126_figure_largeshow.jpg	谱例11.54	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1220948790_figure_largeshow.jpg	谱例12.81	第十二章 调式	12-6 民族调性体系	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1220954229_figure_largeshow.jpg	谱例11.29	第十一章 转调	11-5 转调中的模进、趋近与循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1224715266_figure_largeshow.jpg	谱例11.66	第十一章 转调	11-8 其他转调法	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1224715307_figure_largeshow.jpg	谱例11.65	第十一章 转调	11-8 其他转调法	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1233428918_figure_largeshow.jpg	谱例13.6	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1233532483_figure_largeshow.jpg	谱例13.5	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1235492905_figure_largeshow.jpg	谱例13.9	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1235546834_figure_largeshow.jpg	谱例13.7	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1235549923_figure_largeshow.jpg	谱例13.8	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1235580153_figure_largeshow.jpg	谱例13.11	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1235580218_figure_largeshow.jpg	谱例13.12	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1235580350_figure_largeshow.jpg	谱例13.14	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1235580933_figure_largeshow.jpg	谱例13.10	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1235631625_figure_largeshow.jpg	谱例13.18	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1235631742_figure_largeshow.jpg	谱例13.13	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1235634723_figure_largeshow.jpg	谱例13.20	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1235688268_figure_largeshow.jpg	谱例13.19	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1237910789_figure_largeshow.jpg	谱例13.42	第十三章 现代和声	13-6 其他有限移位调式	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1237912184_figure_largeshow.jpg	谱例13.24	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1237913107_figure_largeshow.jpg	谱例13.22	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1237920307_figure_largeshow.jpg	谱例13.23	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1237920432_figure_largeshow.jpg	谱例13.34	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1237921587_figure_largeshow.jpg	谱例13.16	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1237936466_figure_largeshow.jpg	谱例13.25	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1238138838_figure_largeshow.jpg	谱例13.17	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1257730008_figure_largeshow.jpg	谱例12.96	第十二章 调式	12-8 自然音阶与调性	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1258699180_figure_largeshow.jpg	谱例12.7	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1258699244_figure_largeshow.jpg	谱例12.13	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1258699395_figure_largeshow.jpg	谱例12.22	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1261960442_figure_largeshow.jpg	谱例13.30	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1261960778_figure_largeshow.jpg	谱例13.29	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1261960838_figure_largeshow.jpg	谱例13.31	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1261960935_figure_largeshow.jpg	谱例13.32	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1262932763_figure_largeshow.jpg	谱例13.36	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1262932827_figure_largeshow.jpg	谱例13.37	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1262933055_figure_largeshow.jpg	谱例13.26	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1263319077_figure_largeshow.jpg	谱例13.15	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1276843006_figure_largeshow.jpg	谱例11.5	第十一章 转调	11-2 共同和弦转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1276843157_figure_largeshow.jpg	谱例11.34	第十一章 转调	11-6 等音转调(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1276843298_figure_largeshow.jpg	谱例11.51	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1276843302_figure_largeshow.jpg	谱例11.60	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1293834514_figure_largeshow.jpg	谱例11.49	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1294531337_figure_largeshow.jpg	谱例11.58	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1333359176_figure_largeshow.jpg	谱例11.11	第十一章 转调	11-3 加速转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1333685329_figure_largeshow.jpg	谱例11.18	第十一章 转调	11-4 同名转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1333686836_figure_largeshow.jpg	谱例11.73	第十一章 转调	11-9 调性布局(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1334459986_figure_largeshow.jpg	谱例11.13	第十一章 转调	11-4 同名转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1335298676_figure_largeshow.jpg	谱例11.27	第十一章 转调	11-5 转调中的模进、趋近与循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1346794272_figure_largeshow.jpg	谱例13.27	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1346826905_figure_largeshow.jpg	谱例13.41	第十三章 现代和声	13-6 其他有限移位调式	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1346827468_figure_largeshow.jpg	谱例11.71	第十一章 转调	11-9 调性布局(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1346833794_figure_largeshow.jpg	谱例13.40	第十三章 现代和声	13-6 其他有限移位调式	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1346833997_figure_largeshow.jpg	谱例13.33	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1346834052_figure_largeshow.jpg	谱例13.44	第十三章 现代和声	13-6 其他有限移位调式	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1346834113_figure_largeshow.jpg	谱例13.28	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1346834237_figure_largeshow.jpg	谱例13.35	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1348335875_figure_largeshow.jpg	谱例13.38	第十三章 现代和声	13-6 其他有限移位调式	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1348335976_figure_largeshow.jpg	谱例13.39	第十三章 现代和声	13-6 其他有限移位调式	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1348336275_figure_largeshow.jpg	谱例13.45	第十三章 现代和声	13-6 其他有限移位调式	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1348336300_figure_largeshow.jpg	谱例13.46	第十三章 现代和声	13-6 其他有限移位调式	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1348878635_figure_largeshow.jpg	谱例13.43	第十三章 现代和声	13-6 其他有限移位调式	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1348959960_figure_largeshow.jpg	谱例13.2	第十三章 现代和声	13-3 有限移位调式	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1354214986_figure_largeshow.jpg	谱例13.47	第十三章 现代和声	13-6 其他有限移位调式	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1354215064_figure_largeshow.jpg	谱例13.21	第十三章 现代和声	13-5 减音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1357229475_figure_largeshow.jpg	谱例13.48	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1358235768_figure_largeshow.jpg	谱例13.49	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1359661649_figure_largeshow.jpg	谱例13.53	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1359661751_figure_largeshow.jpg	谱例13.54	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1359662162_figure_largeshow.jpg	谱例11.37	第十一章 转调	11-6 等音转调(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1363587187_figure_largeshow.jpg	谱例13.62	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1387568979_figure_largeshow.jpg	谱例13.50	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1389458296_figure_largeshow.jpg	谱例13.61	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1389458441_figure_largeshow.jpg	谱例13.64	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1389458634_figure_largeshow.jpg	谱例13.57	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1389497473_figure_largeshow.jpg	谱例11.37	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1389497748_figure_largeshow.jpg	谱例13.52	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1389498022_figure_largeshow.jpg	谱例13.55	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1389498647_figure_largeshow.jpg	谱例13.56	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1389641646_figure_largeshow.jpg	谱例13.58	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1389642221_figure_largeshow.jpg	谱例13.59	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1389642729_figure_largeshow.jpg	谱例13.60	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1389643119_figure_largeshow.jpg	谱例13.67	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1389643824_figure_largeshow.jpg	谱例13.66	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1397322548_figure_largeshow.jpg	谱例13.68	第十三章 现代和声	13-8 调性中的半音阶（下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1419010252_figure_largeshow.jpg	谱例12.91	第十二章 调式	12-7 日本音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1536915503_figure_largeshow.jpg	谱例13.72	第十三章 现代和声	13-8 调性中的半音阶（下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1550388274_figure_largeshow.jpg	谱例13.70	第十三章 现代和声	13-8 调性中的半音阶（下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1550611727_figure_largeshow.jpg	谱例13.71	第十三章 现代和声	13-8 调性中的半音阶（下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1550612488_figure_largeshow.jpg	谱例13.73	第十三章 现代和声	13-8 调性中的半音阶（下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1551633668_figure_largeshow.jpg	谱例13.75	第十三章 现代和声	13-8 调性中的半音阶（下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1551633848_figure_largeshow.jpg	谱例8.19	第十三章 现代和声	13-8 调性中的半音阶（下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1551904541_figure_largeshow.jpg	谱例13.76	第十三章 现代和声	13-8 调性中的半音阶（下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1552920113_figure_largeshow.jpg	谱例13.63	第十三章 现代和声	13-7 调性中的半音阶（上）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1553695989_figure_largeshow.jpg	谱例13.74	第十三章 现代和声	13-8 调性中的半音阶（下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1554232882_figure_largeshow.jpg	谱例12.42	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1554233053_figure_largeshow.jpg	谱例12.41	第十二章 调式	12-4 中国风格的旋律	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1570820469_figure_largeshow.jpg	谱例13.77	第十三章 现代和声	13-8 调性中的半音阶（下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1603269870_figure_largeshow.jpg	谱例13.69	第十三章 现代和声	13-8 调性中的半音阶（下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1689875261_figure_largeshow.jpg	谱例12.2	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1689875384_figure_largeshow.jpg	谱例12.11	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1690789115_figure_largeshow.jpg	谱例13.11	第十三章 现代和声	13-4 全音阶	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1690789282_figure_largeshow.jpg	谱例13.78	第十三章 现代和声	13-8 调性中的半音阶（下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1690789323_figure_largeshow.jpg	谱例13.79	第十三章 现代和声	13-8 调性中的半音阶（下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1690789455_figure_largeshow.jpg	谱例13.80	第十三章 现代和声	13-8 调性中的半音阶（下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1690789940_figure_largeshow.jpg	谱例12.5	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1690790376_figure_largeshow.jpg	谱例12.15	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1690790687_figure_largeshow.jpg	谱例12.16	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1690792536_figure_largeshow.jpg	谱例12.17	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1690792655_figure_largeshow.jpg	谱例12.21	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1690793150_figure_largeshow.jpg	谱例12.19	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1691113548_figure_largeshow.jpg	谱例12.3	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1692552136_figure_largeshow.jpg	谱例12.23	第十二章 调式	12-2 中古调式(下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1692552337_figure_largeshow.jpg	谱例12.24	第十二章 调式	12-2 中古调式(下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1692552680_figure_largeshow.jpg	谱例12.25	第十二章 调式	12-2 中古调式(下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1692553123_figure_largeshow.jpg	谱例12.26	第十二章 调式	12-2 中古调式(下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1692553778_figure_largeshow.jpg	谱例12.27	第十二章 调式	12-2 中古调式(下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1692553944_figure_largeshow.jpg	谱例12.28	第十二章 调式	12-2 中古调式(下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1692554603_figure_largeshow.jpg	谱例12.29	第十二章 调式	12-2 中古调式(下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1693505288_figure_largeshow.jpg	谱例11.16	第十一章 转调	11-4 同名转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1693949232_figure_largeshow.jpg	谱例12.8	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1694568703_figure_largeshow.jpg	谱例12.12	第十二章 调式	12-1 中古调式(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1694984789_figure_largeshow.jpg	谱例12.15	第十二章 调式	12-2 中古调式(下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1694984964_figure_largeshow.jpg	谱例12.20	第十二章 调式	12-2 中古调式(下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1694985138_figure_largeshow.jpg	谱例12.17	第十二章 调式	12-2 中古调式(下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1696285793_figure_largeshow.jpg	谱例12.30	第十二章 调式	12-2 中古调式(下）	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1696485328_figure_largeshow.jpg	谱例11.12	第十一章 转调	11-4 同名转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1697074365_figure_largeshow.jpg	谱例11.38	第十一章 转调	11-6 等音转调(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1697074570_figure_largeshow.jpg	谱例11.39	第十一章 转调	11-6 等音转调(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1697074779_figure_largeshow.jpg	谱例11.42	第十一章 转调	11-6 等音转调(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1697074850_figure_largeshow.jpg	谱例11.43	第十一章 转调	11-6 等音转调(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1697075154_figure_largeshow.jpg	谱例11.46	第十一章 转调	11-6 等音转调(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1697075630_figure_largeshow.jpg	谱例11.62	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1697075785_figure_largeshow.jpg	谱例11.61	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\1697076176_figure_largeshow.jpg	谱例11.45	第十一章 转调	11-6 等音转调(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\920385964_figure_largeshow.jpg	谱例11.4	第十一章 转调	11-2 共同和弦转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\922340633_figure_largeshow.jpg	谱例11.6	第十一章 转调	11-2 共同和弦转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\922897156_figure_largeshow.jpg	谱例11.7	第十一章 转调	11-3 加速转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\922897464_figure_largeshow.jpg	谱例11.8	第十一章 转调	11-3 加速转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\922933168_figure_largeshow.jpg	谱例11.10	第十一章 转调	11-3 加速转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\927116798_figure_largeshow.jpg	谱例11.1	第十一章 转调	11-1 大小调总论	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\928123129_figure_largeshow.jpg	谱例9.23	第十一章 转调	11-4 同名转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\929348359_figure_largeshow.jpg	谱例11.17	第十一章 转调	11-4 同名转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\929349803_figure_largeshow.jpg	谱例11.16	第十一章 转调	11-4 同名转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\929840271_figure_largeshow.jpg	谱例11.15	第十一章 转调	11-4 同名转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\929841327_figure_largeshow.jpg	谱例11.20	第十一章 转调	11-4 同名转调	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\933343441_figure_largeshow.jpg	谱例11.23	第十一章 转调	11-5 转调中的模进、趋近与循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\934054228_figure_largeshow.jpg	谱例11.25	第十一章 转调	11-5 转调中的模进、趋近与循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\934054406_figure_largeshow.jpg	谱例11.26	第十一章 转调	11-5 转调中的模进、趋近与循环	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\951285253_figure_largeshow.jpg	谱例11.32	第十一章 转调	11-6 等音转调(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\955438093_figure_largeshow.jpg	谱例11.33	第十一章 转调	11-6 等音转调(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\964058255_figure_largeshow.jpg	谱例11.36	第十一章 转调	11-6 等音转调(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\964058959_figure_largeshow.jpg	谱例11.35	第十一章 转调	11-6 等音转调(上)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\972372511_figure_largeshow.jpg	谱例11.47	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\975595444_figure_largeshow.jpg	谱例11.56	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\976765447_figure_largeshow.jpg	谱例11.50	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\977367696_figure_largeshow.jpg	谱例11.53	第十一章 转调	11-7 等音转调(下)	
+E:\Documents\DeepSeeK\harmony-trainer\images\adv\990964129_figure_largeshow.jpg	谱例11.63	第十一章 转调	11-8 其他转调法	

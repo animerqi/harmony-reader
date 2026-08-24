@@ -179,6 +179,12 @@
   }
   .fig img:hover{box-shadow:var(--shadow-hover);}
   .fig figcaption{font-size:calc(var(--read-fs) * 0.78); color:var(--sub); margin-top:6px;}
+  .score-playbar{
+    display:inline-flex; align-items:center; gap:10px; margin-top:10px;
+    background:var(--accent-soft); border:1px solid var(--line);
+    border-radius:999px; padding:5px 8px 5px 12px;
+  }
+  .score-play-label{font-size:.8rem; color:var(--accent-deep); font-weight:600;}
 
   /* ---------- 音频块 ---------- */
   .audio-card{
@@ -635,6 +641,7 @@
 </div>
 
 <script src="chapters.js"></script>
+<script src="midi_notes.js"></script>
 <script>
 "use strict";
 /* ================= 音频引擎 ================= */
@@ -781,6 +788,7 @@ function playStyle(voicing, t0, beats, spb, style){
 /* ================= 全局状态 ================= */
 const state = { style:"block", beats:2, bpm:90, melodyOn:true, timbre:"piano", token:0, timer:null };
 let playingCard = null;   // 当前播放的音频卡 DOM
+let scoreBtn = null;      // 当前播放的谱例按钮 DOM
 
 function stopAll(){
   state.token++;
@@ -792,6 +800,39 @@ function stopAll(){
     playingCard.querySelectorAll(".a-chip").forEach(c => c.classList.remove("on"));
     playingCard = null;
   }
+  if(scoreBtn){
+    scoreBtn.textContent = "▶"; scoreBtn.classList.remove("stop");
+    scoreBtn = null;
+  }
+}
+
+/* ================= 谱例播放（OMR MIDI 数据） ================= */
+function playScore(imgSrc, btn){
+  if(scoreBtn === btn){ stopAll(); return; }
+  stopAll();
+  const data = window.MIDI_NOTES && window.MIDI_NOTES[imgSrc];
+  if(!data || !data.length) return;
+  initAudio();
+  newBus();
+  const token = ++state.token;
+  const spb = 60 / state.bpm;
+  const t0 = ctx.currentTime + 0.12;
+  let totalQ = 0;
+  data.forEach(([off, dur]) => { totalQ = Math.max(totalQ, off + dur); });
+  data.forEach(([off, dur, p]) => {
+    synth(p, t0 + off * spb, Math.max(dur * spb * 0.9, 0.15), 0.16);
+  });
+  scoreBtn = btn;
+  btn.textContent = "■"; btn.classList.add("stop");
+  const total = totalQ * spb + 0.2;
+  const start = t0;
+  state.timer = setInterval(() => {
+    if(token !== state.token) return;
+    if(ctx.currentTime >= start + total){
+      if(scoreBtn === btn){ scoreBtn.textContent = "▶"; scoreBtn.classList.remove("stop"); scoreBtn = null; }
+      clearInterval(state.timer); state.timer = null;
+    }
+  }, 200);
 }
 
 /* ================= 音频块播放 ================= */
@@ -948,6 +989,19 @@ function renderBlocks(blocks, container){
       img.addEventListener("click", () => { lbImg.src = b.src; lb.classList.add("open"); });
       fig.appendChild(img);
       if(b.cap){ const cap = document.createElement("figcaption"); cap.textContent = b.cap; fig.appendChild(cap); }
+      // 谱例播放：若该图有对应 MIDI 数据，图片下方加播放按钮
+      if(window.MIDI_NOTES && window.MIDI_NOTES[b.src] && window.MIDI_NOTES[b.src].length){
+        const bar = document.createElement("div");
+        bar.className = "score-playbar";
+        const btn = document.createElement("button");
+        btn.className = "a-play"; btn.textContent = "▶"; btn.title = "播放此谱例（OMR 识别）";
+        const label = document.createElement("span");
+        label.className = "score-play-label";
+        label.textContent = "♪ 播放谱例（" + window.MIDI_NOTES[b.src].length + " 音）";
+        bar.appendChild(btn); bar.appendChild(label);
+        btn.addEventListener("click", () => playScore(b.src, btn));
+        fig.appendChild(bar);
+      }
       container.appendChild(fig);
     } else if(b.t === "audio"){
       container.appendChild(buildAudioCard(b));
