@@ -1118,32 +1118,33 @@ function toast(msg){
 /* ================= 上一节 / 下一节 导航 ================= */
 function getAdjacent(ci, gi, si, dir){
   const chapters = window.BOOK.chapters;
+  const ch = chapters[ci];
+  const hasIntro = !!(ch.intro && ch.intro.length);
   if(gi === null){   // 章 intro
     if(dir === 1){
-      for(let c = ci; c < chapters.length; c++){
-        const nc = chapters[c];
-        if(nc.intro && nc.intro.length) return {ci:c, gi:null, si:null};
-        if(nc.groups.length && nc.groups[0].sections.length) return {ci:c, gi:0, si:0};
+      // 下一节：本章第一小节（intro 之后）
+      if(ch.groups.length && ch.groups[0].sections.length) return {ci, gi:0, si:0};
+      for(let c = ci+1; c < chapters.length; c++){
+        if(chapters[c].groups.length && chapters[c].groups[0].sections.length) return {ci:c, gi:0, si:0};
       }
       return null;
     } else {
+      // 上一节：上一章最后一个小节
       for(let c = ci-1; c >= 0; c--){
-        const pc = chapters[c];
-        if(pc.intro && pc.intro.length) return {ci:c, gi:null, si:null};
-        for(let g = pc.groups.length-1; g >= 0; g--){
-          if(pc.groups[g].sections.length) return {ci:c, gi:g, si:pc.groups[g].sections.length-1};
+        for(let g = chapters[c].groups.length-1; g >= 0; g--){
+          if(chapters[c].groups[g].sections.length) return {ci:c, gi:g, si:chapters[c].groups[g].sections.length-1};
         }
       }
       return null;
     }
   }
-  const ch = chapters[ci];
   if(dir === 1){
     let g = gi, s = si + 1;
     while(g < ch.groups.length){
       if(s < ch.groups[g].sections.length) return {ci, gi:g, si:s};
       g++; s = 0;
     }
+    // 章末 → 下一章 intro（若有）或第一小节
     for(let c = ci+1; c < chapters.length; c++){
       const nc = chapters[c];
       if(nc.intro && nc.intro.length) return {ci:c, gi:null, si:null};
@@ -1151,17 +1152,18 @@ function getAdjacent(ci, gi, si, dir){
     }
     return null;
   } else {
+    // 本章第一小节：先回本章 intro（若有）
+    if(si === 0 && gi === 0 && hasIntro) return {ci, gi:null, si:null};
     let g = gi, s = si - 1;
     while(g >= 0){
       if(s >= 0) return {ci, gi:g, si:s};
       g--;
       if(g >= 0) s = ch.groups[g].sections.length - 1;
     }
+    // 章首 → 上一章最后一个小节
     for(let c = ci-1; c >= 0; c--){
-      const pc = chapters[c];
-      if(pc.intro && pc.intro.length) return {ci:c, gi:null, si:null};
-      for(let g2 = pc.groups.length-1; g2 >= 0; g2--){
-        if(pc.groups[g2].sections.length) return {ci:c, gi:g2, si:pc.groups[g2].sections.length-1};
+      for(let g2 = chapters[c].groups.length-1; g2 >= 0; g2--){
+        if(chapters[c].groups[g2].sections.length) return {ci:c, gi:g2, si:chapters[c].groups[g2].sections.length-1};
       }
     }
     return null;
@@ -1198,7 +1200,7 @@ function buildNavBottom(ci, gi, si, crumb){
 
 function navigate(dir){
   const parts = activeKey.split("/");
-  const ci = +parts[0];
+  const ci = +parts[0].replace(/^ch/, "");   // activeKey 形如 "ch2/3/4"，去掉 ch 前缀
   const gi = parts.length > 1 ? +parts[1] : null;
   const si = parts.length > 2 ? +parts[2] : null;
   const t = getAdjacent(ci, gi, si, +dir);
