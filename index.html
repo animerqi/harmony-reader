@@ -156,6 +156,26 @@
     border-radius:var(--r-sm);
     line-height:var(--read-lh);
   }
+  .sec-head-row{
+    display:flex; align-items:center; gap:12px; flex-wrap:wrap; margin-bottom:16px;
+  }
+  .sec-head-row .sec-head{flex:1 1 240px; margin:0;}
+  .sec-nav-top{display:flex; gap:8px;}
+  .nav-btn{
+    border:1px solid var(--line); background:var(--card); color:var(--accent-deep);
+    border-radius:999px; padding:7px 16px; font-size:.85rem; cursor:pointer;
+    box-shadow:var(--shadow);
+    transition:transform .18s ease, filter .18s ease, box-shadow .18s ease;
+  }
+  .nav-btn:hover:not(:disabled){filter:brightness(1.07); box-shadow:var(--shadow-hover);}
+  .nav-btn:active:not(:disabled){transform:translateY(1px);}
+  .nav-btn:disabled{opacity:.4; cursor:default;}
+  .nav-btn.big{padding:10px 22px; font-size:.92rem;}
+  .sec-nav-bottom{
+    display:flex; align-items:center; justify-content:space-between; gap:12px;
+    margin-top:24px; padding-top:16px; border-top:1px dashed var(--line);
+  }
+  .nav-pos{font-size:.76rem; color:var(--sub); text-align:center; flex:1; line-height:1.6;}
   .card{
     background:var(--card); border:1px solid var(--line);
     border-radius:var(--r-lg) var(--r-md) var(--r-lg) var(--r-md);
@@ -1095,17 +1115,108 @@ function toast(msg){
   toast._t = setTimeout(() => { el.style.opacity = "0"; }, 2600);
 }
 
+/* ================= 上一节 / 下一节 导航 ================= */
+function getAdjacent(ci, gi, si, dir){
+  const chapters = window.BOOK.chapters;
+  if(gi === null){   // 章 intro
+    if(dir === 1){
+      for(let c = ci; c < chapters.length; c++){
+        const nc = chapters[c];
+        if(nc.intro && nc.intro.length) return {ci:c, gi:null, si:null};
+        if(nc.groups.length && nc.groups[0].sections.length) return {ci:c, gi:0, si:0};
+      }
+      return null;
+    } else {
+      for(let c = ci-1; c >= 0; c--){
+        const pc = chapters[c];
+        if(pc.intro && pc.intro.length) return {ci:c, gi:null, si:null};
+        for(let g = pc.groups.length-1; g >= 0; g--){
+          if(pc.groups[g].sections.length) return {ci:c, gi:g, si:pc.groups[g].sections.length-1};
+        }
+      }
+      return null;
+    }
+  }
+  const ch = chapters[ci];
+  if(dir === 1){
+    let g = gi, s = si + 1;
+    while(g < ch.groups.length){
+      if(s < ch.groups[g].sections.length) return {ci, gi:g, si:s};
+      g++; s = 0;
+    }
+    for(let c = ci+1; c < chapters.length; c++){
+      const nc = chapters[c];
+      if(nc.intro && nc.intro.length) return {ci:c, gi:null, si:null};
+      if(nc.groups.length && nc.groups[0].sections.length) return {ci:c, gi:0, si:0};
+    }
+    return null;
+  } else {
+    let g = gi, s = si - 1;
+    while(g >= 0){
+      if(s >= 0) return {ci, gi:g, si:s};
+      g--;
+      if(g >= 0) s = ch.groups[g].sections.length - 1;
+    }
+    for(let c = ci-1; c >= 0; c--){
+      const pc = chapters[c];
+      if(pc.intro && pc.intro.length) return {ci:c, gi:null, si:null};
+      for(let g2 = pc.groups.length-1; g2 >= 0; g2--){
+        if(pc.groups[g2].sections.length) return {ci:c, gi:g2, si:pc.groups[g2].sections.length-1};
+      }
+    }
+    return null;
+  }
+}
+
+function navBtnHTML(target, dir, big){
+  const label = dir < 0 ? "‹ 上一节" : "下一节 ›";
+  const cls = "nav-btn" + (big ? " big" : "");
+  if(!target) return `<button class="${cls}" data-dir="${dir}" disabled>${label}</button>`;
+  return `<button class="${cls}" data-dir="${dir}">${label}</button>`;
+}
+
+function buildNavTop(ci, gi, si, title){
+  const wrap = document.createElement("div");
+  wrap.className = "sec-head-row";
+  const h = document.createElement("h2");
+  h.className = "sec-head"; h.textContent = title;
+  const top = document.createElement("div");
+  top.className = "sec-nav-top";
+  top.innerHTML = navBtnHTML(getAdjacent(ci, gi, si, -1), -1) + navBtnHTML(getAdjacent(ci, gi, si, 1), 1);
+  wrap.appendChild(h); wrap.appendChild(top);
+  return wrap;
+}
+
+function buildNavBottom(ci, gi, si, crumb){
+  const nav = document.createElement("div");
+  nav.className = "sec-nav-bottom";
+  nav.innerHTML = navBtnHTML(getAdjacent(ci, gi, si, -1), -1, true) +
+    `<span class="nav-pos">${esc(crumb)}</span>` +
+    navBtnHTML(getAdjacent(ci, gi, si, 1), 1, true);
+  return nav;
+}
+
+function navigate(dir){
+  const parts = activeKey.split("/");
+  const ci = +parts[0];
+  const gi = parts.length > 1 ? +parts[1] : null;
+  const si = parts.length > 2 ? +parts[2] : null;
+  const t = getAdjacent(ci, gi, si, +dir);
+  if(!t) return;
+  if(t.gi === null) loadIntro(t.ci);
+  else loadSection(t.ci, t.gi, t.si);
+}
+
 function loadIntro(ci){
   const ch = window.BOOK.chapters[ci];
   activeKey = "ch" + ci;
   content.innerHTML = "";
-  const h = document.createElement("h2");
-  h.className = "sec-head"; h.textContent = ch.label;
-  content.appendChild(h);
+  content.appendChild(buildNavTop(ci, null, null, ch.label));
   const card = document.createElement("div");
   card.className = "card";
   renderBlocks(ch.intro, card);
   content.appendChild(card);
+  content.appendChild(buildNavBottom(ci, null, null, ch.label));
   setTocActive(ci, null, null);
   document.getElementById("crumb").textContent = ch.label;
   saveReading(ci, null, null);
@@ -1118,10 +1229,7 @@ function loadSection(ci, gi, si){
   activeKey = "ch" + ci + "/" + gi + "/" + si;
   stopAll();
   content.innerHTML = "";
-  const h = document.createElement("h2");
-  h.className = "sec-head";
-  h.textContent = sec.title;
-  content.appendChild(h);
+  content.appendChild(buildNavTop(ci, gi, si, sec.title));
   const card = document.createElement("div");
   card.className = "card";
   renderBlocks(sec.blocks, card);
@@ -1130,9 +1238,10 @@ function loadSection(ci, gi, si){
   if(sec.title === "移调"){
     content.appendChild(buildTransposeCard());
   }
-  setTocActive(ci, gi, si);
   const glabel = ch.groups[gi].label;
   const crumb = ch.label + " › " + (glabel ? glabel + (sec.title !== glabel ? " › " + sec.title : "") : sec.title);
+  content.appendChild(buildNavBottom(ci, gi, si, crumb));
+  setTocActive(ci, gi, si);
   document.getElementById("crumb").textContent = crumb;
   saveReading(ci, gi, si);
   window.scrollTo({top:0});
@@ -1417,6 +1526,12 @@ const lb = document.getElementById("lightbox");
 const lbImg = document.getElementById("lbImg");
 document.getElementById("lbClose").addEventListener("click", () => lb.classList.remove("open"));
 lb.addEventListener("click", e => { if(e.target === lb) lb.classList.remove("open"); });
+
+/* ================= 上一节/下一节 导航事件 ================= */
+content.addEventListener("click", e => {
+  const b = e.target.closest(".nav-btn");
+  if(b && !b.disabled){ navigate(b.dataset.dir); }
+});
 
 /* ================= 启动 ================= */
 buildToc();
